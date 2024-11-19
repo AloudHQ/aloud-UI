@@ -9,7 +9,7 @@ const SignIn = () => {
   
 
   return (
-    <div className="flex flex-col border-2 border-[#E7E7E7] mx-8  sm:w-[90%] md:w-3/4 lg:w-2/6 md:mx-auto p-8 my-20 md:p-10 2xl:p-12 3xl:p-14 bg-[#fffcf7] rounded-2xl">
+    <div className="flex flex-col border-2 border-[#E7E7E7] mx-8  sm:w-[90%] md:w-3/4 lg:w-[605px] md:mx-auto p-8 my-20 md:p-10 2xl:p-12 3xl:p-14 bg-[#fffcf7] rounded-2xl">
       <div className="flex flex-col justify-center mx-auto   items-center gap-3 pb-4">
         <div>
           <AloudLogo />
