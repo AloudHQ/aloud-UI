@@ -1,0 +1,4 @@
+.placeholder-semibold::placeholder {
+    font-weight: 600; /* Semibold */
+  }
+  
