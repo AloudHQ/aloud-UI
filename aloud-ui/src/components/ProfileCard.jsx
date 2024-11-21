@@ -4,7 +4,7 @@ import ProfilePhotoSection from './ProfilePhotoSection';
 
 export default function ProfileCard() {
   return (
-    <div className="flex items-center justify-center  ">
+    <div className="flex items-center justify-center my-8">
       {/* Card Content */}
       <div className="w-full max-w-lg mx-auto p-4">
         <ProfilePhotoSection />
